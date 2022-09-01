@@ -50,8 +50,6 @@ class _HomeState extends State<Home> {
     " best jacket"
   ];
 
-  List myfavorite = ["I love  ", "I love ", "I love ", "I love "];
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
